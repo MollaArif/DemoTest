@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6496" started-at="2017-05-10T04:57:49Z" finished-at="2017-05-10T04:57:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6496" started-at="2017-05-10T04:57:49Z" finished-at="2017-05-10T04:57:55Z">
+      <class name="paxotech.com.SeleniumFirstClass">
+        <test-method status="PASS" signature="stUp()[pri:0, instance:paxotech.com.SeleniumFirstClass@7c75222b]" name="stUp" is-config="true" duration-ms="6395" started-at="2017-05-10T00:57:49Z" finished-at="2017-05-10T00:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:paxotech.com.SeleniumFirstClass@7c75222b]" name="test1" duration-ms="3" started-at="2017-05-10T00:57:55Z" finished-at="2017-05-10T00:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:paxotech.com.SeleniumFirstClass@7c75222b]" name="tearDown" is-config="true" duration-ms="83" started-at="2017-05-10T00:57:55Z" finished-at="2017-05-10T00:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- paxotech.com.SeleniumFirstClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
